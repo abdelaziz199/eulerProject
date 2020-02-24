@@ -5,8 +5,8 @@
 
 
 number_limit = int(input('enter the limit:'))
-multiple_trois = int(input('enter the first multiple:'))
-multiple_cinq = int(input('enter second multiple :'))
+multiple_three = int(input('enter the first multiple:'))
+multiple_five = int(input('enter second multiple :'))
 sum =0
 cpt =1 
 while cpt < number_limit:
